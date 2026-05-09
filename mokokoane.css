@@ -1,0 +1,48 @@
+body {
+           backgroud-color:green;
+          color:black;
+          line-height:1.6;
+}
+    .banner {
+        background: linear-gradient(blue, white, black);
+        text-align: center;
+        padding: 70px 20px;
+        color: ;
+}
+    nav{
+        background-color:lightgreen;
+        padding:15px;
+        text-align:centre;
+}
+
+     h2 {
+        font-size: 50px;
+        margin: 0;
+        letter-spacing: 2px;
+    }
+
+   p {
+      font-size: 18px;
+        margin-top: 10px;
+    } 
+
+    button{
+        margin-top: 25px;
+        display: inline-block;
+        padding: 12px 25px;
+        background: green;
+        color: white;
+        text-decoration: none;
+        border-radius: 25px;
+    }
+
+    .button:hover {
+        background: blue;
+}
+    
+    footer{
+            background-color:green;
+            color:black;
+            padding:25px;
+            margin-top:40px;
+            text-align:centre;}
